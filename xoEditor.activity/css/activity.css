@@ -1,0 +1,12 @@
+#canvas {
+  margin: 0;
+  text-align: center;
+}
+
+#main-toolbar #activity-button {
+  background-image: url(../activity/activity-xo-editor.svg);
+}
+
+#main-toolbar #save-colors-button {
+  background-image: url(../icons/save-colors.svg);
+}
